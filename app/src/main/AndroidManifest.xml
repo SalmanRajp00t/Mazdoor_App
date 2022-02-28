@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginForm">
         <activity
+            android:name=".Audio_player"
+            android:exported="false" />
+        <activity
             android:name=".fragment"
             android:exported="false" />
         <activity
@@ -25,7 +28,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".Audio_player"
+            android:name=".VideoPlayer"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
