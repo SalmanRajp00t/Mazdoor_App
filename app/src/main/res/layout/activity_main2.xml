@@ -8,11 +8,26 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="392dp"
-        android:layout_height="416dp"
+        android:layout_width="224dp"
+        android:layout_height="238dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/salmanv" />
+        app:layout_constraintVertical_bias="0.339"
+        app:srcCompat="@drawable/gym" />
+
+    <TextView
+        android:layout_width="243dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginTop="412dp"
+        android:text="FitnessZone"
+        android:textColor="#FFC107"
+        android:textSize="34dp"
+
+        android:textStyle="italic"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

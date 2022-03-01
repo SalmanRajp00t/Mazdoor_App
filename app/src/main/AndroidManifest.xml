@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginForm">
         <activity
-            android:name=".Audio_player"
+            android:name=".VideoPlayer"
             android:exported="false" />
         <activity
             android:name=".fragment"
             android:exported="false" />
         <activity
-            android:name=".MainActivity2"
+            android:name=".Audio_player"
             android:exported="false" />
         <activity
             android:name=".listview"
@@ -28,7 +28,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".VideoPlayer"
+            android:name=".MainActivity2"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
