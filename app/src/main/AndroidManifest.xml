@@ -19,7 +19,7 @@
             android:name=".Audio_player"
             android:exported="false" />
         <activity
-            android:name=".listview"
+            android:name=".MainActivity2"
             android:exported="false" />
         <activity
             android:name=".pagefour"
@@ -28,7 +28,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity2"
+            android:name=".listview"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
