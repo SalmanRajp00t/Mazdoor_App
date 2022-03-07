@@ -7,7 +7,7 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="85dp"
-        android:layout_height="79dp"
+        android:layout_height="80dp"
         app:srcCompat="@drawable/saas" />
 
     <TextView
