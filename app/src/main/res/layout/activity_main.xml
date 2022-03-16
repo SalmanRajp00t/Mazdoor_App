@@ -13,7 +13,7 @@
         android:gravity="center"
         android:text="Login"
         android:textColor="#E4B115"
-        android:textSize="30dp"
+        android:textSize="35dp"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
