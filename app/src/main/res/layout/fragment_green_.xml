@@ -6,7 +6,6 @@
     android:background="#1B8009"
     tools:context=".green_Fragment">
 
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
