@@ -7,6 +7,7 @@
     tools:context=".VideoPlayer">
 
 
+
     <VideoView
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
