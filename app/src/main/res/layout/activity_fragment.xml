@@ -22,13 +22,6 @@
         android:text="Red" />
 
     <Button
-        android:id="@+id/blue"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:text="Blue" />
-
-    <Button
         android:id="@+id/green"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -50,5 +43,11 @@
       android:layout_height="match_parent"
       android:orientation="horizontal">
 
+    <Button
+        android:id="@+id/blue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Blue" />
   </LinearLayout>
 </LinearLayout>
