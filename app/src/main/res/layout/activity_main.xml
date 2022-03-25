@@ -12,7 +12,7 @@ ss<?xml version="1.0" encoding="utf-8"?>
         android:layout_width="163dp"
         android:layout_height="58dp"
         android:gravity="center"
-        android:text="Login"
+        android:text="Loginpage"
         android:textColor="#E4B115"
         android:textSize="35dp"
         android:textStyle="bold|italic"
