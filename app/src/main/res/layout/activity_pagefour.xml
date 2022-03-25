@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <TextView
         android:id="@+id/logo"
         android:layout_width="163dp"
@@ -14,6 +15,7 @@
         android:layout_marginTop="208dp"
         android:gravity="center"
         android:text="Singup"
+
         android:textColor="#E4B115"
         android:textSize="30dp"
         android:textStyle="bold|italic"
@@ -21,6 +23,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
+
         android:id="@+id/supname"
         android:layout_width="343dp"
         android:layout_height="60dp"
