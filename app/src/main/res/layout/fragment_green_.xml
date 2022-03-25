@@ -10,9 +10,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Salman"
-        android:textStyle="bold"
-        android:textSize="32dp"
         android:layout_gravity="center"
-        android:textColor="#ffff"/>
+        android:text="Salman"
+        android:textColor="#ffff"
+        android:textSize="32dp"
+        android:textStyle="bold" />
 </FrameLayout>
