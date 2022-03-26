@@ -1,4 +1,4 @@
-ss<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -6,12 +6,13 @@ ss<?xml version="1.0" encoding="utf-8"?>
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <TextView
         android:id="@+id/logo"
         android:layout_width="163dp"
         android:layout_height="58dp"
         android:gravity="center"
-        android:text="Login"
+        android:text="Loginpage"
         android:textColor="#E4B115"
         android:textSize="35dp"
         android:textStyle="bold|italic"
