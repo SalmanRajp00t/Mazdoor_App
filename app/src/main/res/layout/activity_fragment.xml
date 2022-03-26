@@ -43,6 +43,7 @@
         android:layout_weight="1"
         android:text="Black" />
 
+
     <Button
         android:id="@+id/blue"
         android:layout_width="wrap_content"
