@@ -30,7 +30,7 @@ public class Helper extends SQLiteOpenHelper {
         values.put("Name",name);
         values.put("Password",password);
         values.put("Email",email);
-        Long query=DB2.insert("UserTable",null,values);
+        Long query=DB2.insert ("UserTable",null,values);
         if (query==-1){
             return false;
         }
