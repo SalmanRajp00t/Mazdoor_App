@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginForm">
         <activity
+            android:name=".navsidebar"
+            android:exported="false"
+            android:label="@string/title_activity_navsidebar"
+            android:theme="@style/Theme.LoginForm.NoActionBar" />
+        <activity
             android:name=".Home"
             android:exported="false" />
         <activity
