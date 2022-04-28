@@ -10,12 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginForm">
         <activity
+            android:name=".project_1"
+            android:exported="false" />
+        <activity
             android:name=".navsidebar"
             android:exported="false"
             android:label="@string/title_activity_navsidebar"
             android:theme="@style/Theme.LoginForm.NoActionBar" />
         <activity
-            android:name=".Home"
+            android:name=".listview"
             android:exported="false" />
         <activity
             android:name=".VideoPlayer"
@@ -36,7 +39,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".listview"
+            android:name=".Home"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
