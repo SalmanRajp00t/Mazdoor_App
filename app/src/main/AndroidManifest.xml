@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginForm">
         <activity
-            android:name=".project_1"
+            android:name=".Home"
             android:exported="false" />
         <activity
             android:name=".navsidebar"
@@ -39,7 +39,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".Home"
+            android:name=".project_1"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
