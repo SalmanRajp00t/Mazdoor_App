@@ -310,7 +310,7 @@
                         app:srcCompat="@drawable/ic_settings" />
 
                     <TextView
-                        android:id="@+id/textView9"
+                        android:id="@+id/textstng"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Setting"
