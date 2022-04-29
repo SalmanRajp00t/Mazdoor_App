@@ -237,7 +237,7 @@
                         app:srcCompat="@drawable/ic_baseline_person_24" />
 
                     <TextView
-                        android:id="@+id/textViewprfle"
+                        android:id="@+id/textprfle"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Profile"
