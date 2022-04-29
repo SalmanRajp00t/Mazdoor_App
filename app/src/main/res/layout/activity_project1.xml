@@ -199,7 +199,7 @@
                 android:layout_height="match_parent">
 
                 <LinearLayout
-                    android:id="@+id/homebu"
+                    android:id="@+id/homeb"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="0.2"
