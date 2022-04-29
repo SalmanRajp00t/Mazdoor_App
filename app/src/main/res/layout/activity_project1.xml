@@ -272,7 +272,7 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/chatbutto"
+                    android:id="@+id/chatbutt"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="0.2"
