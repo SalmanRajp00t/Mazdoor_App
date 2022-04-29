@@ -261,7 +261,7 @@
                         app:srcCompat="@drawable/ic_home" />
 
                     <TextView
-                        android:id="@+id/textViewinvcb"
+                        android:id="@+id/textinvcb"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Home"
