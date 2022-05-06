@@ -7,6 +7,7 @@
     tools:context=".listview">
 
     <ListView
+
         android:id="@+id/list"
         android:divider="#e44949"
         android:dividerHeight="2sp"
