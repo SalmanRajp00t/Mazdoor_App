@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".project_1">
 
+
     <ScrollView
         android:id="@+id/scrollview"
         android:layout_width="match_parent"
