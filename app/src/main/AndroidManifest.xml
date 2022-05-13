@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginForm">
         <activity
+            android:name=".plumber"
+            android:exported="false" />
+        <activity
+            android:name=".electricion"
+            android:exported="false" />
+        <activity
+            android:name=".mechanic"
+            android:exported="false" />
+        <activity
+            android:name=".mazdoor"
+            android:exported="false" />
+        <activity
             android:name=".Home"
             android:exported="false" />
         <activity
@@ -30,7 +42,7 @@
             android:name=".Audio_player"
             android:exported="false" />
         <activity
-            android:name=".MainActivity2"
+            android:name=".project_1"
             android:exported="false" />
         <activity
             android:name=".pagefour"
@@ -39,7 +51,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".project_1"
+            android:name=".MainActivity2"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
