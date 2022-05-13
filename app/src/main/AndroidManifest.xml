@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginForm">
         <activity
+            android:name=".aboutus"
+            android:exported="false" />
+        <activity
+            android:name=".contectus"
+            android:exported="false" />
+        <activity
             android:name=".plumber"
             android:exported="false" />
         <activity
