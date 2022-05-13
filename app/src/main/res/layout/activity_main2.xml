@@ -26,7 +26,6 @@
         android:text="BHAI"
         android:textColor="#020202"
         android:textSize="34dp"
-
         android:textStyle="bold|italic"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -39,7 +38,6 @@
         android:text="MAZDOOR"
         android:textColor="#FFC107"
         android:textSize="34dp"
-
         android:textStyle="bold|italic"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
