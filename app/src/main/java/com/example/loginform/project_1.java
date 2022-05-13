@@ -16,7 +16,7 @@ import com.example.loginform.Domain.CetagoryDomain;
 import java.util.ArrayList;
 
 public class project_1 extends AppCompatActivity {
-    CardView mechanic, mazdoor, plumber, electricion;
+    CardView mechanic, mazdoor, plumber, electricion, contact, about;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +32,27 @@ public class project_1 extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+
+        about= (CardView) findViewById(R.id.aboutus);
+        about.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(),aboutus.class);
+                startActivity(intent);
+            }
+        });
+
+
+        contact= (CardView) findViewById(R.id.contactus);
+        contact.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(),contectus.class);
+                startActivity(intent);
+            }
+        });
+
 
 
 
