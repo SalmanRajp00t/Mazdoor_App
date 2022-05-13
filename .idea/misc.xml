@@ -7,9 +7,8 @@
         <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/drawable/name.xml" value="0.18796296296296297" />
         <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/layout/activity_audio_player.xml" value="0.1" />
         <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/layout/activity_listview.xml" value="0.1" />
-        <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/layout/activity_main.xml" value="0.15" />
         <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/layout/activity_main2.xml" value="0.1" />
-        <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/layout/activity_project1.xml" value="0.1" />
         <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/layout/activity_video_player.xml" value="0.1" />
         <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/layout/fragment_black_.xml" value="0.1" />
         <entry key="..\:/Users/Muhammad Arsalan/AndroidStudioProjects/Mazdoor_App/app/src/main/res/layout/fragment_blue_.xml" value="0.1" />
@@ -48,11 +47,16 @@
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/oring_light.xml" value="0.1275" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/oringdark.xml" value="0.1275" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/search_background.xml" value="0.1275" />
+        <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_electricion.xml" value="0.1375" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_fragment.xml" value="0.2015625" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_main2.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_mazdoor.xml" value="0.1515625" />
+        <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_mechanic.xml" value="0.1375" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_navsidebar.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_pagefour.xml" value="0.18" />
+        <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_plumber.xml" value="0.1515625" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_project1.xml" value="0.22620689655172413" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_video_player.xml" value="0.1272644927536232" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/app_bar_navsidebar.xml" value="0.17028985507246377" />
