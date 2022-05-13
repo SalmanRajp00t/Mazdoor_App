@@ -38,6 +38,7 @@
         <entry key="..\:/Users/butt/AndroidStudioProjects/loginForm/app/src/main/res/layout/listviewtry.xml" value="0.22" />
         <entry key="..\:/Users/butt/AndroidStudioProjects/loginForm/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20555555555555555" />
         <entry key="..\:/Users/butt/AndroidStudioProjects/loginForm/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/bg_round.xml" value="0.1" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/cat_background.xml" value="0.184" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/cat_background2.xml" value="0.184" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/cat_background3.xml" value="0.184" />
@@ -47,10 +48,11 @@
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/oring_light.xml" value="0.1275" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/oringdark.xml" value="0.1275" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/drawable/search_background.xml" value="0.1275" />
+        <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_contectus.xml" value="0.22" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_electricion.xml" value="0.1375" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_fragment.xml" value="0.2015625" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_home.xml" value="0.22" />
-        <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_main2.xml" value="0.17028985507246377" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_mazdoor.xml" value="0.1515625" />
         <entry key="..\:/Users/sad/AndroidStudioProjects/Mazdoor_Ap/app/src/main/res/layout/activity_mechanic.xml" value="0.1375" />
