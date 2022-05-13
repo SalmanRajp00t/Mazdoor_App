@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         log.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent sign=new Intent(MainActivity.this , pagefour.class);
+                Intent sign=new Intent(MainActivity.this , project_1.class);
                 startActivity(sign);
                 Toast.makeText(MainActivity.this, "Arslan ", Toast.LENGTH_SHORT).show();
             }

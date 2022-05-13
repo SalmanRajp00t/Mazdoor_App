@@ -15,4 +15,11 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="setting">Setting</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+
+    <string name="popular">Popular</string>
+    <string name="categaries">Categaries</string>
+    <string name="booking_now">Booking Now</string>
 </resources>

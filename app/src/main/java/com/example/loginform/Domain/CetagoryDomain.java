@@ -2,7 +2,7 @@ package com.example.loginform.Domain;
 
 public class CetagoryDomain {
     private String title;
-    private String pic;
+    private int pic;
 
     public String getTitle() {
         return title;
@@ -12,15 +12,15 @@ public class CetagoryDomain {
         this.title = title;
     }
 
-    public String getPic() {
+    public int getPic() {
         return pic;
     }
 
-    public void setPic(String pic) {
+    public void setPic(int pic) {
         this.pic = pic;
     }
 
-    public CetagoryDomain(String title, String pic) {
+    public CetagoryDomain(String title, int pic) {
         this.title = title;
         this.pic = pic;
     }
