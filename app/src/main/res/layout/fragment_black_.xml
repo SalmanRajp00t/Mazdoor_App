@@ -6,7 +6,6 @@
     android:background="@color/black"
     tools:context=".black_Fragment">
 
-
     <TextView
 
         android:layout_width="wrap_content"
